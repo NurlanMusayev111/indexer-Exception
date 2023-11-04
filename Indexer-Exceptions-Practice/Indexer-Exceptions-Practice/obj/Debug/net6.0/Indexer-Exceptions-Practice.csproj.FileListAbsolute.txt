@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\obj\Debug\net6.0\Indexer-Exceptions-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\obj\Debug\net6.0\Indexer-Exceptions-Practice.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\obj\Debug\net6.0\Indexer-Exceptions-Practice.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\obj\Debug\net6.0\Indexer-Exceptions-Practice.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\bin\Debug\net6.0\Indexer-Exceptions-Practice.exe
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\bin\Debug\net6.0\Indexer-Exceptions-Practice.deps.json
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\bin\Debug\net6.0\Indexer-Exceptions-Practice.runtimeconfig.json
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\bin\Debug\net6.0\Indexer-Exceptions-Practice.dll
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\bin\Debug\net6.0\Indexer-Exceptions-Practice.pdb
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\obj\Debug\net6.0\Indexer-Exceptions-Practice.dll
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\obj\Debug\net6.0\refint\Indexer-Exceptions-Practice.dll
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\obj\Debug\net6.0\Indexer-Exceptions-Practice.pdb
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\obj\Debug\net6.0\Indexer-Exceptions-Practice.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Indexer-Exceptions-Practice\Indexer-Exceptions-Practice\obj\Debug\net6.0\ref\Indexer-Exceptions-Practice.dll
